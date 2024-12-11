@@ -14,10 +14,6 @@
 - Передача этих параметров на второй экран (`MainActivity2`). 
 - Паремтры выводятся на соответсвующие поля отдельно (`Имя`) и (`Фамилия`).
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/32fd4a64-4334-4547-b8bc-90913f139833" width="250"> 
-    <img src="https://github.com/user-attachments/assets/e098379c-fb5d-47d3-a607-75c2b63e3a9c" width="250">
-</p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
 _Описан один из возможных способов:_
